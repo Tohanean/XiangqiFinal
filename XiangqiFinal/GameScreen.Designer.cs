@@ -47,7 +47,7 @@ namespace XiangqiFinal
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(724, 293);
+            this.panel1.Location = new System.Drawing.Point(1422, 284);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(80, 59);
             this.panel1.TabIndex = 1;

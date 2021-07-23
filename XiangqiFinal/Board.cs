@@ -236,7 +236,7 @@ namespace XiangqiFinal
                     {
                         if (selectedPiecePossibleMovements[row, col])
                         {
-                            g.DrawImage(PiceceBitmap.posibleMovement, BoardPosition[row, col].GetRec());
+                            g.DrawImage(PiceceBitmap.pieceMarker, BoardPosition[row, col].GetRec());
                         }
                     }
                 }
